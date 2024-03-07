@@ -24,11 +24,10 @@
       <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/iabac.jpg" alt="IABAC" width="100" height="100"/>&nbsp;  
     </p>
     <p>
-      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mgr.jpg" alt="Dr MGR University" width="150" height="100"/>&nbsp;
+      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mgr.jpg" alt="Dr MGR University" width="100" height="100"/>&nbsp;
       <img align="right" src="https://github.com/alekha1234/alekha1234/blob/main/documents/nasscom-logo.png" alt="NASSCOM" width="100" height="100"/>&nbsp; 
     </p>
-    <p>
-      <img align="left" src="https://th.bing.com/th/id/OIP.qQ9k3px1vM4SUsJ5BOAi-gHaHa?rs=1&pid=ImgDetMain" alt="DAV" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+    <p> 
     </p><br><br><br>
 </div>
 
