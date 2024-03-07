@@ -64,6 +64,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KishoreKumarSenthil&theme=bear" height="180em" />
 </div>
 
-## ⚡Activity Graph:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+
 [![Kishore Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KishoreKumarSenthil&bg_color=050003&color=ffffff&line=7370ff&point=a8caff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
