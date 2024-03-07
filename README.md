@@ -29,7 +29,6 @@
     </p>
     <p>
       <img align="left" src="https://th.bing.com/th/id/OIP.qQ9k3px1vM4SUsJ5BOAi-gHaHa?rs=1&pid=ImgDetMain" alt="DAV" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
-      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/skillup.png" alt="SkillUP" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
     </p><br><br><br>
 </div>
 
