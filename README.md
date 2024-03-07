@@ -53,6 +53,7 @@
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="80" height="80"/>&nbsp; 
     </p>
 </div>
-## ⚡Activity Graph:
 
+## ⚡Activity Graph:
+[![Kishore Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KishoreKumarSenthil&bg_color=050003&color=7081ff&line=fa00ab&point=ffa200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
