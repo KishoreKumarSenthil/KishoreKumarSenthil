@@ -39,7 +39,7 @@
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/numpy.png" alt="Numpy" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/pandas.png" alt="Pandas" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/matplot.png" alt="Matplotlib" width="80" height="80"/>&nbsp;
-      <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/seaborn.svg" alt="Seaborn" width="80" height="80"/>&nbsp;
+      <img src="https://github.com/alekha1234/alekha1234/blob/main/documents/seaborn-logo.png" alt="Seaborn" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/sklearn.png" alt="Sciket-Learn" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/flask.png" alt="Flask" width="80" height="80"/>&nbsp;
       <img src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/powerbi.webp" alt="Power BI" width="80" height="80"/>&nbsp;
