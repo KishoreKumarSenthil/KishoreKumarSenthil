@@ -21,16 +21,18 @@
 <div>
   <h3 align="left">Education:</h3>
   <h3 align="right">Certifications:</h3>
-    <p>
-      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/datamites.webp" alt="DataMites" width="100" height="100"/>&nbsp;
-      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/iabac.jpg" alt="IABAC" width="100" height="100"/>&nbsp;  
+     <p>
+      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mgr.jpg" alt="Dr MGR University" width="120" height="100"/>&nbsp;
+      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/datamites.webp" alt="DataMites" width="100" height="100"/>&nbsp;    
     </p>
     <p>
-      <img align="left" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/mgr.jpg" alt="Dr MGR University" width="110" height="100"/>&nbsp;
-      <img align="right" src="https://github.com/alekha1234/alekha1234/blob/main/documents/nasscom-logo.png" alt="NASSCOM" width="100" height="100"/>&nbsp; 
+      <img align="left" src="https://th.bing.com/th/id/OIP.qQ9k3px1vM4SUsJ5BOAi-gHaHa?rs=1&pid=ImgDetMain" alt="Bodhi" width="100" height="100"/>&nbsp;
+      <img align="right" src="https://github.com/NawazHussainZ/NawazHussainZ/blob/main/iabac.jpg" alt="IABAC" width="100" height="100"/>&nbsp; 
     </p>
-   <p>   
-   </p><br><br><br>
+    <p>
+      <img align="left" src="https://usky.in/Images/DataAnalytics/kv_logo.jpg" alt="HVF" width="100" height="100"/>&nbsp; &nbsp; &nbsp; &nbsp; 
+      <img align="right" src="https://github.com/alekha1234/alekha1234/blob/main/documents/nasscom-logo.png" alt="NASSCOM" width="100" height="100"/>&nbsp; &nbsp; &nbsp; 
+    </p><br><br><br>
 </div>
 
 
