@@ -5,7 +5,7 @@
    DATA SCIENTIST
    
 - 🌱 I’m currently learning **Airtificial Intelligent**
-- 💬 Ask me about **Machine Learning , MySQL **
+- 💬 Ask me about **Machine Learning , MySQL**
 - 📫 How to reach me **kishorekumarsenthil2@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/KishoreKumarSenthil**
 - ⚡ Fun fact **I love to do Coding......**
